@@ -15,11 +15,11 @@ app.get('/', (req, res) => {
 });
 app.listen(port, () => {
   console.log(`🔗 Listening to Robin NTW : http://localhost:${port}`);
-  console.log(`🔗 Powered By Robinayush`);
+  console.log(`🔗 Powered By Discord Development`);
 });
 
 
-const statusMessages = ["Watching Voxo Studios","Get Started With /help","Your Discord Developement Buddy","voxo01.github.io/bot","Use Code VOXOV30R"];
+const statusMessages = ["Managing Servers"];
 
 
 let currentIndex = 0;
